@@ -4,4 +4,4 @@ let nomePais= 'Brasil',
     qtdEstados = 26,
     paisDaAmeriaLatina = true;
 
-console.log(nomePais,pontosTuristicos,capitalPais, qtdEstados, paisDaAmeriaLatina)
+console.log(nomePais, pontosTuristicos, capitalPais, qtdEstados, paisDaAmeriaLatina)
